@@ -1,5 +1,6 @@
 """
 Kattis Problem: https://open.kattis.com/problems/multiplication
+NOTE: still under works
 """
 
 
