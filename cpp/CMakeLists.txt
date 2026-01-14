@@ -3,4 +3,4 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(cpp mork.cpp)
+add_executable(cpp sifferprodukt.cpp)
