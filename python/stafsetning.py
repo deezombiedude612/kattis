@@ -2,7 +2,6 @@
 Kattis Problem also in IT5003 PS0
 https://nus.kattis.com/courses/IT5003/IT5003_S2_AY2526/assignments/nnxpwh/problems/stafsetning
 
-
 n: number of problems
 m: minutes taken for fixing each typo
 k: total minutes that can be spent on typos per day
