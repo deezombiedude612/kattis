@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/sifferprodukt
-"""
-
 n = abs(int(input()))
 
 # while not 1 <= n < 10:

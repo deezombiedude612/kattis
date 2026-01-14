@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/sortofsorting
-"""
-
 from random import randrange
 
 

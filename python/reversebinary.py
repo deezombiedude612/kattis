@@ -1,8 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/reversebinary
-"""
-
-
 N = int(input())
 bin_N = str(bin(N))[2:]
 # rev_bin_N = bin_N[::-1]

@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/thanos
-"""
-
 for _ in range(int(input())):
     P, R, F = map(int, input().split())
     year = 0

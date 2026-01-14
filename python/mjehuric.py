@@ -1,5 +1,4 @@
 """
-Kattis Problem: https://open.kattis.com/problems/mjehuric
 Bubble Sort Question
 """
 

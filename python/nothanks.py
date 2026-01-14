@@ -1,7 +1,6 @@
 """
-Kattis Problem: https://open.kattis.com/problems/nothanks
+NOTE: solved in IT5003 Lecture 02 (Sem 2510)
 """
-# solved in IT5003 Lecture 02 (Sem 2510)
 
 input()  # ignore n
 a = sorted(list(map(int, input().split())))

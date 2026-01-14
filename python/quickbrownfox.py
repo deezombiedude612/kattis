@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/quickbrownfox
-"""
-
 n = int(input())
 
 str_lst = []

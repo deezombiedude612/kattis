@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/everywhere
-"""
-
 n = int(input())
 
 distinct_cities = []

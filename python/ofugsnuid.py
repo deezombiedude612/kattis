@@ -1,7 +1,3 @@
-"""
-"Reverse" on Kattis
-"""
-
 num_ints = int(input())
 int_list = []
 for i in range(num_ints):

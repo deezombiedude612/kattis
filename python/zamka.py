@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/zamka
-"""
-
 # user_input = input()
 # L, D, X = [int(i) for i in user_input.split()]
 # L, D, X = [int(i) for i in input().split()]

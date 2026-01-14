@@ -2,10 +2,12 @@
 
 During my time as a TA for IT5001 in NUS, I was introduced to [Kattis](https://open.kattis.com) as an equivalent to [LeetCode](https://leetcode.com/);
 both are websites used by those into competitive programming.
-Having not done this before, I decided I should at least try my hand at solving as many problems - not only to satiate any urge for sharpening my programming prowess, but also since it's sworn by some of the taught courses here.
+Having not done this before, I decided I should at least try my hand at solving as many problems as I can.Some of the problems are stupid challenging, and I do wish I dabbled with this much earlier during my undergraduate years.
 
-At present moment, I have solved the following using Python 3 (primarily due to ease and relativity to IT5001).
-However, I may populate a separate subfolder in this repository if I choose to try my hand at solving the problem using a different programming language.
+At present, I have solved a couple of problems, mostly using Python 3.
+This also includes some that have been done my A/P Steven Halim during IT5003 lectures I attended.
+Each attempt is categorized in subfolders following the type(s) of programming languages the problems were solved in.
 
-To view the problem I solved, head over to `https://open.kattis.com/<name_of_file>`.
+To view the problem I solved, head over to `https://open.kattis.com/problems/<name_of_file>`.
 I have named each solution file according to the name of the Kattis page containing the problem.
+If there are problems that are available on NUS's Kattis subdomain, these will be mentioned at the beginning of the respective files.

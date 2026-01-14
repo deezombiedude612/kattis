@@ -1,12 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/successfulzoom
-
-n: 2 <= n <= 10^5
-x: list of integers 0 <= x_i <= 2^30
-    i: positive integers up to n
-"""
-
-
 n = int(input())
 x = list(map(int, input().split()))
 

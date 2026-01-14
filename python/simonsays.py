@@ -1,8 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/simonsays
-"""
-
-
 N = int(input())
 simon_instructions = []
 

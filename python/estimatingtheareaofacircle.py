@@ -1,7 +1,3 @@
-"""
-Kattis Problem: https://open.kattis.com/problems/estimatingtheareaofacircle
-"""
-
 from math import pi
 
 rmc_list = []
