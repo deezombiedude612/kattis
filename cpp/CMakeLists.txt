@@ -3,4 +3,6 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(cpp sifferprodukt.cpp)
+add_executable(cpp nafnauki.cpp
+        nafnauki.cpp
+        nafnauki.cpp)
